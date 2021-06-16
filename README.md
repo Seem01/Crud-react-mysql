@@ -1,3 +1,3 @@
 # Crud-react-mysql
 
-Mysql export in file server
+Mysql export file in server folder
